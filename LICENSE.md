@@ -1,4 +1,4 @@
-
+Perimeter 81 premium Client: smart-DNS & PPTP-support is the best Perimeter 81 client, featuring smart-DNS and PPTP-support. Secure, fast, and optimized for privacy.
 
 
 
